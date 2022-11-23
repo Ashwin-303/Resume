@@ -89,30 +89,30 @@ let resumeData = {
         "imgurl":"images/portfolio/microservices.jpg"
       },
       {
-        "name":"project2",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "name":"Logging & Monitoring Using Self Hosted Opensearch",
+        "description":"Worked on single click deployment for ELK cluster and agents configuration. It also had security compliance integration which is Wazuh",
+        "imgurl":"images/portfolio/logging&monitoring.jpg"
       },
       {
-        "name":"project3",
-        "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
+        "name":"Mobile APP CI/CD Pipeline",
+        "description":"Created CI/CD Pipeline for mobile app both Android & iOS. Used Fastlane to for automationg all the manual task.",  
+        "imgurl":"images/portfolio/CICD.jpg"
       },
       {
-        "name":"project4",
-        "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "name":"Ansible role for project setups using boilerplate",
+        "description":"Automated the creation of reposistories on bitbucket and commiting the intial code from boilerplates with best practices.",
+        "imgurl":"images/portfolio/Ansible.png"
       }
     ],
     "testimonials":[
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
-      },
-      {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
-      }
+      // {
+      //   "description":"This is a sample testimonial",
+      //   "name":"Some technical guy"
+      // },
+      // {
+      //   "description":"This is a sample testimonial",
+      //   "name":"Some technical guy"
+      // }
     ]
   }
   

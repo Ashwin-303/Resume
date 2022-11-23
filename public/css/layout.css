@@ -380,26 +380,26 @@ ul#nav li.current a { color: #F06000; }
 }
 
 .aws {
-  	width: 60%;
+  	width: 85%;
   	-moz-animation: photoshop 2s ease;
   	-webkit-animation: photoshop 2s ease;
 }
-.illustrator {
-  	width: 55%;
+.terraform {
+  	width: 70%;
   	-moz-animation: illustrator 2s ease;
   	-webkit-animation: illustrator 2s ease;
 }
-.wordpress {
-  	width: 50%;
+.kubernetes {
+  	width: 70%;
   	-moz-animation: wordpress 2s ease;
   	-webkit-animation: wordpress 2s ease;
 }
-.css {
-  	width: 90%;
+.jenkins {
+  	width: 85%;
   	-moz-animation: css 2s ease;
   	-webkit-animation: css 2s ease;
 }
-.html5 {
+.ansible {
   	width: 80%;
   	-moz-animation: html5 2s ease;
   	-webkit-animation: html5 2s ease;
@@ -554,8 +554,8 @@ ul#nav li.current a { color: #F06000; }
    color: #fff;
 }
 .portfolio-item .portfolio-item-meta p {
-   font: 12px/18px 'opensans-light', sans-serif;
-   color: #c6c7c7;
+   font: 13px/19px 'opensans-light', sans-serif;
+   color: #fff;
    margin-bottom: 0;
 }
 
