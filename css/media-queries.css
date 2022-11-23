@@ -260,6 +260,7 @@
 
    /* Portfolio Section
    /* ----------------------------------------------------------------- */
+   #portfolio .columns { margin-bottom: 40px; }
    #portfolio-wrapper .columns { margin-bottom: 40px; }
    .popup-modal {	max-width: 85%; }
 
@@ -368,6 +369,18 @@
    /* header social links */
    header .social { font-size: 20px;}
    header .social li { margin: 0 6px; }
+
+   /* Portfolio Section
+   /* ----------------------------------------------------------------- */
+   #portfolio {
+      padding-top: 90px;
+      padding-bottom: 60px;
+      height: 1800px;
+      min-height: 1500px;
+   }
+   #portfolio-wrapper .columns { margin-bottom: 10px; }
+   .popup-modal {	max-width: 45%; }
+
 
    /* footer
    ------------------------------------------------------------------------ */
